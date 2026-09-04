@@ -7,7 +7,7 @@ about:
   head: 5c57195
   archived: false
   latestVersion: v1.2.0
-  collectedAt: 2026-09-04T19:56:59Z
+  collectedAt: 2026-09-04T20:44:14Z
 timeline:
   created: 2023-06-16
   lastCommit: 2026-04-01
@@ -83,5 +83,48 @@ total:
   openIssue: 36
   commit: 193
 ---
+path: /home/runner/.x-repo/github.com/da-luce/astroterm
+collectedAt: 2026-09-04T20:44:16Z
+loc:
+  C:
+    code: 6687
+    comments: 998
+    blanks: 1293
+    files: 24
+  CHeader:
+    code: 2709
+    comments: 839
+    blanks: 382
+    files: 20
+  Python:
+    code: 332
+    comments: 45
+    blanks: 77
+    files: 4
+  Meson:
+    code: 276
+    comments: 80
+    blanks: 59
+    files: 4
+  Sh:
+    code: 70
+    comments: 15
+    blanks: 14
+    files: 2
+  Yaml:
+    code: 8
+    comments: 2
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 306
+    blanks: 133
+    files: 2
+total:
+  code: 10093
+  comments: 2285
+  blanks: 1958
+  files: 57
 ---
 
