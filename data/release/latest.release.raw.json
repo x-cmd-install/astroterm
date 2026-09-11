@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 860856,
       "digest": "sha256:57a542bd37d01337a5dfd8582015a76c9949c0a514e4b9335e0c1aa44445b3df",
-      "download_count": 665,
+      "download_count": 666,
       "created_at": "2026-04-01T01:13:59Z",
       "updated_at": "2026-04-01T01:13:59Z",
       "browser_download_url": "https://github.com/da-luce/astroterm/releases/download/v1.2.0/astroterm-linux-x86_64"
