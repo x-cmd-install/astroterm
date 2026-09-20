@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 559048,
       "digest": "sha256:c1dd8dca26608bcdac1fd79f9fb4f3ca2af8a60d0f4e5a50db5cfb86bd2cb19d",
-      "download_count": 41,
+      "download_count": 43,
       "created_at": "2026-04-01T01:13:57Z",
       "updated_at": "2026-04-01T01:13:57Z",
       "browser_download_url": "https://github.com/da-luce/astroterm/releases/download/v1.2.0/astroterm-darwin-aarch64"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 82,
       "digest": "sha256:1a8b114daba02424a8c027fd72a7175ef8df016fea58873c8dde7b274a460268",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-04-01T01:13:57Z",
       "updated_at": "2026-04-01T01:13:58Z",
       "browser_download_url": "https://github.com/da-luce/astroterm/releases/download/v1.2.0/astroterm-darwin-aarch64.sha256"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 860856,
       "digest": "sha256:57a542bd37d01337a5dfd8582015a76c9949c0a514e4b9335e0c1aa44445b3df",
-      "download_count": 682,
+      "download_count": 687,
       "created_at": "2026-04-01T01:13:59Z",
       "updated_at": "2026-04-01T01:13:59Z",
       "browser_download_url": "https://github.com/da-luce/astroterm/releases/download/v1.2.0/astroterm-linux-x86_64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 557568,
       "digest": "sha256:397b3b9d61ae1d744cbcd2906985e8fcfd5dc13f3b2391ee56fda1c589b080b4",
-      "download_count": 275,
+      "download_count": 276,
       "created_at": "2026-04-01T01:13:59Z",
       "updated_at": "2026-04-01T01:14:00Z",
       "browser_download_url": "https://github.com/da-luce/astroterm/releases/download/v1.2.0/astroterm-win-x86_64.exe"
