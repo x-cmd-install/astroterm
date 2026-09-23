@@ -4,7 +4,7 @@
 
 A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required. ✨🪐
 
-[![x-cmd/install — astroterm Code Quality Monitoring Repo Card](https://repo.x-cmd.io/astroterm.svg)](https://x-cmd.com/install/astroterm)
+[![x-cmd/install — astroterm Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/astroterm.svg)](https://x-cmd.com/install/astroterm)
 
 ## Install
 
@@ -37,7 +37,7 @@ Total: **10,082** lines of code across **54** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,047 · **Forks**: 50 · **Open issues**: 68 · **Contributors**: 13
+- **Stars**: 2,049 · **Forks**: 51 · **Open issues**: 68 · **Contributors**: 13
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **10,082** lines of code across **54** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 1 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 0 | 1 | 1 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 0 | 1 | 1 | 0 |
-| last180d | 2026-03-26 | 2 | 1 | 2 | 1 | 13 | 3 |
-| 360d | 2025-09-27 | 3 | 5 | 2 | 4 | 16 | 11 |
-| last720d | 2024-10-02 | 13 | 44 | 2 | 34 | 34 | 149 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 1 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 0 | 1 | 1 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 0 | 1 | 1 | 0 |
+| last180d | 2026-03-27 | 2 | 1 | 2 | 1 | 13 | 3 |
+| 360d | 2025-09-28 | 3 | 5 | 2 | 4 | 16 | 11 |
+| last720d | 2024-10-03 | 13 | 44 | 2 | 34 | 34 | 149 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for astroterm lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:17:27Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:18:08Z._
