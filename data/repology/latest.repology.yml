@@ -1,45 +1,10 @@
-- repo: fedora_43
-  subrepo: release
+- repo: homebrew
   srcname: astroterm
-  binnames:
-    - astroterm
   visiblename: astroterm
-  version: 1.0.6
-  origversion: 1.0.6-2.fc43
-  status: outdated
-  summary: A planetarium for your terminal
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-- repo: fedora_rawhide
-  subrepo: development
-  srcname: astroterm
-  binnames:
-    - astroterm
-  visiblename: astroterm
-  version: 1.0.6
-  origversion: 1.0.6-5.fc45
-  status: outdated
-  summary: A planetarium for your terminal
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-- repo: fedora_44
-  subrepo: release
-  srcname: astroterm
-  binnames:
-    - astroterm
-  visiblename: astroterm
-  version: 1.0.6
-  origversion: 1.0.6-4.fc44
-  status: outdated
-  summary: A planetarium for your terminal
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
+  version: 1.2.0
+  origversion: null
+  status: newest
+  summary: Planetarium for your terminal
 - repo: alpine_3_23
   subrepo: main
   srcname: astroterm
@@ -201,6 +166,48 @@
     - MIT
   categories:
     - Unspecified
+- repo: fedora_43
+  subrepo: release
+  srcname: astroterm
+  binnames:
+    - astroterm
+  visiblename: astroterm
+  version: 1.0.6
+  origversion: 1.0.6-2.fc43
+  status: outdated
+  summary: A planetarium for your terminal
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_44
+  subrepo: release
+  srcname: astroterm
+  binnames:
+    - astroterm
+  visiblename: astroterm
+  version: 1.0.6
+  origversion: 1.0.6-4.fc44
+  status: outdated
+  summary: A planetarium for your terminal
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_rawhide
+  subrepo: development
+  srcname: astroterm
+  binnames:
+    - astroterm
+  visiblename: astroterm
+  version: 1.2.0
+  origversion: 1.2.0-1.fc46
+  status: newest
+  summary: A planetarium for your terminal
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
 - repo: freebsd
   srcname: astro/astroterm
   binname: astroterm
@@ -255,13 +262,6 @@
 - repo: gnuguix
   srcname: astroterm
   binname: astroterm
-  visiblename: astroterm
-  version: 1.2.0
-  origversion: null
-  status: newest
-  summary: Planetarium for your terminal
-- repo: homebrew
-  srcname: astroterm
   visiblename: astroterm
   version: 1.2.0
   origversion: null
