@@ -1,10 +1,3 @@
-- repo: homebrew
-  srcname: astroterm
-  visiblename: astroterm
-  version: 1.2.0
-  origversion: null
-  status: newest
-  summary: Planetarium for your terminal
 - repo: alpine_3_23
   subrepo: main
   srcname: astroterm
@@ -270,6 +263,13 @@
 - repo: homebrew
   srcname: astroterm
   visiblename: astroterm
+  version: 1.2.0
+  origversion: null
+  status: newest
+  summary: Planetarium for your terminal
+- repo: homebrew
+  srcname: astroterm
+  visiblename: astroterm
   version: HEAD
   origversion: null
   status: rolling
@@ -326,6 +326,20 @@
     - MIT
   categories:
     - app-misc
+- repo: macports
+  srcname: science/astroterm
+  binname: astroterm
+  visiblename: astroterm
+  version: 1.2.0
+  origversion: null
+  status: newest
+  summary: A planetarium for your terminal
+  maintainers:
+    - herbygillot@github
+  licenses:
+    - MIT
+  categories:
+    - science
 - repo: manjaro_stable
   subrepo: extra
   srcname: astroterm
