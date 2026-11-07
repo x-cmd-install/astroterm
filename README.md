@@ -37,7 +37,7 @@ Total: **10,082** lines of code across **54** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,519 · **Forks**: 66 · **Open issues**: 68 · **Contributors**: 13
+- **Stars**: 2,530 · **Forks**: 66 · **Open issues**: 68 · **Contributors**: 13
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **10,082** lines of code across **54** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 0 | 7 | 0 | 0 | 0 |
-| last60d | 2026-09-07 | 0 | 0 | 8 | 0 | 0 | 0 |
-| 90d | 2026-08-08 | 0 | 0 | 8 | 1 | 1 | 0 |
-| last180d | 2026-05-10 | 0 | 0 | 8 | 1 | 3 | 0 |
-| 360d | 2025-11-11 | 3 | 5 | 10 | 4 | 15 | 10 |
-| last720d | 2024-11-16 | 13 | 44 | 10 | 34 | 34 | 149 |
+| 30d | 2026-10-08 | 0 | 0 | 7 | 0 | 0 | 0 |
+| last60d | 2026-09-08 | 0 | 0 | 8 | 0 | 0 | 0 |
+| 90d | 2026-08-09 | 0 | 0 | 8 | 1 | 1 | 0 |
+| last180d | 2026-05-11 | 0 | 0 | 8 | 1 | 3 | 0 |
+| 360d | 2025-11-12 | 3 | 5 | 10 | 4 | 15 | 10 |
+| last720d | 2024-11-17 | 13 | 44 | 10 | 34 | 34 | 149 |
 
 ## Release assets
 
@@ -69,7 +69,7 @@ Total: **10,082** lines of code across **54** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **34** distros on [repology.org](https://repology.org/project/astroterm). **18** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
+Reported by **36** distros on [repology.org](https://repology.org/project/astroterm). **20** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -89,4 +89,4 @@ Install metadata for astroterm lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:49:38Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T07:19:23Z._
