@@ -1,25 +1,24 @@
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: astroterm
-  binname: astroterm
-  visiblename: astroterm
+- repo: aur
+  srcname: astroterm-bin
+  binname: astroterm-bin
+  visiblename: astroterm-bin
   version: 1.2.0
   origversion: 1.2.0-1
   status: newest
   summary: A planetarium for your terminal
+  maintainers:
+    - alphalynx@aur
   licenses:
     - MIT
-- repo: alpine_edge
-  subrepo: main
+- repo: nix_stable_25_05
   srcname: astroterm
-  binname: astroterm
   visiblename: astroterm
-  version: 1.2.0
-  origversion: 1.2.0-r1
-  status: newest
-  summary: Terminal-based star map
+  version: 1.0.7
+  origversion: null
+  status: outdated
+  summary: Celestial viewer for the terminal, written in C
   maintainers:
-    - miyopan@e.email
+    - daltonluce42@gmail.com
   licenses:
     - MIT
 - repo: alpine_3_23
@@ -77,6 +76,19 @@
 - repo: alpine_edge
   subrepo: main
   srcname: astroterm
+  binname: astroterm
+  visiblename: astroterm
+  version: 1.2.0
+  origversion: 1.2.0-r1
+  status: newest
+  summary: Terminal-based star map
+  maintainers:
+    - miyopan@e.email
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: main
+  srcname: astroterm
   binname: astroterm-doc
   visiblename: astroterm-doc
   version: 1.2.0
@@ -85,6 +97,17 @@
   summary: Terminal-based star map (documentation)
   maintainers:
     - miyopan@e.email
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: astroterm
+  visiblename: astroterm
+  version: 1.0.9
+  origversion: null
+  status: outdated
+  summary: Celestial viewer for the terminal, written in C
+  maintainers:
+    - daltonluce42@gmail.com
   licenses:
     - MIT
 - repo: altsisyphus
@@ -112,18 +135,6 @@
   origversion: 1.2.0-1
   status: newest
   summary: A planetarium for your terminal
-  licenses:
-    - MIT
-- repo: aur
-  srcname: astroterm-bin
-  binname: astroterm-bin
-  visiblename: astroterm-bin
-  version: 1.2.0
-  origversion: 1.2.0-1
-  status: newest
-  summary: A planetarium for your terminal
-  maintainers:
-    - alphalynx@aur
   licenses:
     - MIT
 - repo: fedora_40
@@ -351,26 +362,37 @@
     - MIT
   categories:
     - science
-- repo: nix_stable_25_05
+- repo: manjaro_stable
+  subrepo: extra
   srcname: astroterm
+  binname: astroterm
   visiblename: astroterm
-  version: 1.0.7
-  origversion: null
-  status: outdated
-  summary: Celestial viewer for the terminal, written in C
-  maintainers:
-    - daltonluce42@gmail.com
+  version: 1.2.0
+  origversion: 1.2.0-1
+  status: newest
+  summary: A planetarium for your terminal
   licenses:
     - MIT
-- repo: nix_stable_25_11
+- repo: manjaro_testing
+  subrepo: extra
   srcname: astroterm
+  binname: astroterm
   visiblename: astroterm
-  version: 1.0.9
-  origversion: null
-  status: outdated
-  summary: Celestial viewer for the terminal, written in C
-  maintainers:
-    - daltonluce42@gmail.com
+  version: 1.2.0
+  origversion: 1.2.0-1
+  status: newest
+  summary: A planetarium for your terminal
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: astroterm
+  binname: astroterm
+  visiblename: astroterm
+  version: 1.2.0
+  origversion: 1.2.0-1
+  status: newest
+  summary: A planetarium for your terminal
   licenses:
     - MIT
 - repo: nix_stable_26_05
