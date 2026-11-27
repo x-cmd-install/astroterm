@@ -37,7 +37,7 @@ Total: **10,082** lines of code across **54** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,564 · **Forks**: 68 · **Open issues**: 68 · **Contributors**: 13
+- **Stars**: 2,586 · **Forks**: 68 · **Open issues**: 68 · **Contributors**: 13
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **10,082** lines of code across **54** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 0 | 7 | 0 | 0 | 0 |
-| last60d | 2026-09-27 | 0 | 0 | 8 | 0 | 0 | 0 |
-| 90d | 2026-08-28 | 0 | 0 | 8 | 0 | 0 | 0 |
-| last180d | 2026-05-30 | 0 | 0 | 8 | 1 | 3 | 0 |
-| 360d | 2025-12-01 | 3 | 5 | 10 | 4 | 15 | 10 |
-| last720d | 2024-12-06 | 13 | 44 | 10 | 34 | 34 | 149 |
+| 30d | 2026-10-28 | 0 | 0 | 7 | 0 | 0 | 0 |
+| last60d | 2026-09-28 | 0 | 0 | 8 | 0 | 0 | 0 |
+| 90d | 2026-08-29 | 0 | 0 | 8 | 0 | 0 | 0 |
+| last180d | 2026-05-31 | 0 | 0 | 8 | 1 | 3 | 0 |
+| 360d | 2025-12-02 | 3 | 5 | 10 | 4 | 15 | 10 |
+| last720d | 2024-12-07 | 13 | 44 | 10 | 34 | 34 | 149 |
 
 ## Release assets
 
@@ -67,6 +67,19 @@ Total: **10,082** lines of code across **54** files in the top 5 languages.
 | [astroterm-win-x86_64.exe](https://github.com/da-luce/astroterm/releases/download/v1.2.0/astroterm-win-x86_64.exe) | 544.5 KiB | `other` |
 | [astroterm-win-x86_64.exe.sha256](https://github.com/da-luce/astroterm/releases/download/v1.2.0/astroterm-win-x86_64.exe.sha256) | 156 B | `other` |
 
+## Distribution status
+
+Reported by **37** distros on [repology.org](https://repology.org/project/astroterm). **20** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `1.2.0` | ✅ latest |
+| Homebrew | `1.2.0` | ✅ latest |
+| Fedora rawhide | `1.2.0` | ✅ latest |
+| Nix unstable | `1.2.0` | ✅ latest |
+| Alpine edge | `1.2.0` | ✅ latest |
+| openSUSE Tumbleweed | `1.2.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for astroterm lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `astroterm` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -76,4 +89,4 @@ Install metadata for astroterm lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T09:00:11Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T10:18:33Z._
